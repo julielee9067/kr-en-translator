@@ -1,8 +1,11 @@
 [packages]
 colorlog = "==6.6.0"
+fastapi = "==0.92.0"
+marshmallow = "==3.17.0"
+marshmallow-enum = "==1.5.1"
+marshmallow-sqlalchemy = "==0.28.1"
 psycopg2 = "==2.9.3"
-
-
+SQLAlchemy = "==1.4.39"
 
 [dev-packages]
 psycopg2-binary = "==2.9.3"
